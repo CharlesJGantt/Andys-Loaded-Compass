@@ -6,7 +6,7 @@
 
 ## One compass. Every lodestone you care about.
 
-**Version 0.10.3** for Minecraft Bedrock Edition.
+**Version 0.10.4** for Minecraft Bedrock Edition.
 
 The vanilla compass can remember one lodestone. The Loaded Compass remembers as many as you bind. Name each place, choose a destination from your personal in-game list, and the needle points there. Your saved locations belong to you rather than the item, so a lost compass is never a lost destination.
 
@@ -14,7 +14,7 @@ It points. It never teleports you.
 
 ## Download
 
-[Download Andy's Loaded Compass 0.10.3](Andys_Loaded_Compass_0.10.3.mcaddon)
+[Download Andy's Loaded Compass 0.10.4](Andys_Loaded_Compass_0.10.4.mcaddon)
 
 SHA-256: `E80972C4BFC9B26413E4F90B9EE1A52BC4D7BDD4B698CAE5F077E5839BE3A090`
 
@@ -26,6 +26,10 @@ SHA-256: `E80972C4BFC9B26413E4F90B9EE1A52BC4D7BDD4B698CAE5F077E5839BE3A090`
 - Single-player, multiplayer, Realms, and dedicated servers supported
 
 ## What it does
+
+<p align="center">
+  <img src="Andys-Loaded-Compass-Location-List.png" alt="The saved location list: named places with coordinates and a coloured dimension letter" width="70%">
+</p>
 
 - Bind one Loaded Compass to any number of vanilla lodestones.
 - Give every saved location a name, then choose the one the needle follows from an in-game list.
@@ -44,6 +48,10 @@ SHA-256: `E80972C4BFC9B26413E4F90B9EE1A52BC4D7BDD4B698CAE5F077E5839BE3A090`
 On Android and iOS, open the downloaded `.mcaddon` with Minecraft. For consoles, import it on a phone or PC, then join a Realm with the add-on enabled. Servers and Realms should upload and enable both packs.
 
 ## Quick start
+
+<p align="center">
+  <img src="Andys-Loaded-Compass-Recipe.png" alt="Crafting recipe: four lodestones, four redstone dust and a compass" width="70%">
+</p>
 
 1. Pick up an iron ingot once to unlock the recipe.
 2. Craft a Loaded Compass with four lodestones, four redstone dust, and one vanilla compass.
