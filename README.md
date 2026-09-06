@@ -6,7 +6,7 @@
 
 ## One compass. Every lodestone you care about.
 
-**Version 0.10.4** for Minecraft Bedrock Edition.
+**Version 0.11.2** for Minecraft Bedrock Edition.
 
 The vanilla compass can remember one lodestone. The Loaded Compass remembers as many as you bind. Name each place, choose a destination from your personal in-game list, and the needle points there. Your saved locations belong to you rather than the item, so a lost compass is never a lost destination.
 
@@ -14,7 +14,7 @@ It points. It never teleports you.
 
 ## Download
 
-[Download Andy's Loaded Compass 0.10.4](Andys_Loaded_Compass_0.10.4.mcaddon)
+[Download Andy's Loaded Compass 0.11.2](Andys_Loaded_Compass_0.11.2.mcaddon)
 
 SHA-256: `E80972C4BFC9B26413E4F90B9EE1A52BC4D7BDD4B698CAE5F077E5839BE3A090`
 
@@ -28,13 +28,13 @@ SHA-256: `E80972C4BFC9B26413E4F90B9EE1A52BC4D7BDD4B698CAE5F077E5839BE3A090`
 ## What it does
 
 <p align="center">
-  <img src="Andys-Loaded-Compass-Location-List.png" alt="The saved location list: named places with coordinates and a coloured dimension letter" width="70%">
+  <img src="Andys-Loaded-Compass-Location-List.png" alt="The saved location list: each place with its biome, coordinates and dimension" width="70%">
 </p>
 
 - Bind one Loaded Compass to any number of vanilla lodestones.
 - Give every saved location a name, then choose the one the needle follows from an in-game list.
 - Keep your locations after dying, losing the compass, or crafting a replacement.
-- See each saved location's coordinates and dimension at a glance.
+- See each saved location's biome, coordinates, and dimension at a glance.
 - Remove an unwanted saved entry without breaking its lodestone.
 - Have broken lodestones clean themselves out of the list automatically.
 
@@ -60,7 +60,7 @@ On Android and iOS, open the downloaded `.mcaddon` with Minecraft. For consoles,
 
 The vanilla compass, lodestone, and their recipes stay unchanged. This add-on adds a separate compass item only.
 
-## Controls and behaviour
+## Controls and behavior
 
 | Action | Result |
 | --- | --- |
@@ -68,7 +68,7 @@ The vanilla compass, lodestone, and their recipes stay unchanged. This add-on ad
 | Crouch + right-click with a Loaded Compass | Open the saved-location list and switch the needle's target. |
 | Choose **Delete a location…** | Remove only the saved entry; the lodestone remains in the world. |
 
-Saved locations show their name, coordinates, and dimension: **O** for Overworld, **N** for Nether, and **E** for the End. With no location bound, the needle points to world spawn. It spins when the selected lodestone is in another dimension, matching vanilla compass behaviour.
+Each saved location takes two lines: its name and biome on the first, its coordinates and dimension on the second. Biomes are colored to match the terrain they name, and the dimension is spelled out in bold — green for Overworld, red for Nether, purple for End. With no location bound, the needle points to world spawn. It spins when the selected lodestone is in another dimension, matching vanilla compass behavior.
 
 ## Compatibility
 
